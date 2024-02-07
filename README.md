@@ -15,3 +15,4 @@ Usefull code examples:
 - https://github.com/vannponlork/colorize_image/blob/master/nn19.py
 - https://dynamo-tech.com/techblog/image-colorization-with-deep-learning-2/
 - https://www.kaggle.com/code/theblackmamba31/autoencoder-grayscale-to-color-image
+- https://emilwallner.medium.com/colorize-b-w-photos-with-a-100-line-neural-network-53d9b4449f8d
