@@ -9,8 +9,9 @@ conda activate tuwml3
 to install all of the needed libraries run:
 ```
 pip install -e .
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 09b4167 (merge conflicts)
+
+Usefull code examples:
+- https://github.com/vannponlork/colorize_image/blob/master/nn19.py
+- https://dynamo-tech.com/techblog/image-colorization-with-deep-learning-2/
+- https://www.kaggle.com/code/theblackmamba31/autoencoder-grayscale-to-color-image
