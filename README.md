@@ -9,4 +9,8 @@ conda activate tuwml3
 to install all of the needed libraries run:
 ```
 pip install -e .
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 09b4167 (merge conflicts)
