@@ -3,7 +3,7 @@ To install all of the neccessary python libraries please first install [conda](h
 
 Afther installing conda run the following commands:
 ```
-conda create -n tuwml3 python=3.12.1
+conda create -n tuwml3 python=3.11
 conda activate tuwml3
 ```
 to install all of the needed libraries run:
