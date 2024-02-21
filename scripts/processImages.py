@@ -11,7 +11,7 @@ def processArguments(argv: list) -> tuple[str, str, float, int]:
     params = {
         "input_folder": os.getcwd(),
         "output_folder": os.getcwd(),
-        "train_size": 4000,
+        "train_size": 10000,
         "test_size": 1000,
         "validation_size": 500,
         "img_size": 256,
